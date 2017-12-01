@@ -1,0 +1,3 @@
+Token/host Identity 
+  Identity of host process, Identity used to access reources.
+  WindowsIdentity.GetCurrent
